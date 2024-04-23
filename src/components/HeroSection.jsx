@@ -17,7 +17,7 @@ const HeroSection = () => {
 
         <HeroCard img={img1} heading="State of Markets" />
         <HeroCard img={img5} heading="The Central Capex Surge" />
-        <HeroCard img={img3} heading="Direct Taxes and Business" />
+        <HeroCard img={img3} heading="Direct Taxes and Business Cycle" />
         <HeroCard img={img6} heading="Banking Monitor" />
         <div className="cursor-pointer text-[20px]">
           <FaArrowAltCircleRight />
