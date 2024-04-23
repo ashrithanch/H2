@@ -24,8 +24,8 @@ const Aside = () => {
           </span>
           <span className="font-[500]">Industrial Production</span>
           <span className="text-[12px] text-black/70">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eaque iste
-            nulla quas cum sapiente perspiciatis eos enim!
+            Index of Industrial Production (IIP) grew by 3.8% YoY in December, as compared to a 5.1% YoY growth in the same month last year. 
+            Electricity has seen the slowest growth of 1.2% YoY in December as compared to 10.4% YoY growth in the same month last year.
           </span>
         </div>
       </div>
@@ -41,7 +41,10 @@ const Aside = () => {
           <span className="font-[500]">CPI Inflation</span>
           <span className="text-[12px] text-black/70">
             The market capitalisation of Indian stocks 
-            crossed US$4.5 trillion in January
+            crossed US $4.5 trillion in January
+          </span>
+          <span className="text-[12px] text-black/70">
+            The last few years have seen a very substantial step up in capital
           </span>
         </div>
       </div>
