@@ -8,8 +8,7 @@ const HeroCard = ({ img, heading }) => {
       <div className=" p-6 flex flex-col gap-[15px]">
         <h3 className="font-[500] text-[14px]">{heading}</h3>
         <p className="text-black/40 text-[12px]">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatem,
-          tempora?
+          The last few years have seen a very substantial step up in capital
         </p>
       </div>
     </div>
