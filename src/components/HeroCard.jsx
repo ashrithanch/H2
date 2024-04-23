@@ -11,9 +11,6 @@ const HeroCard = ({ img, heading }) => {
           The market capitalisation 
           of Indian stocks crossed US $4.5 trillion in January
         </p>
-        <p className="text-black/40 text-[12px]">
-          The last few years have seen a very substantial step up in capital
-        </p>
       </div>
     </div>
   )
