@@ -12,6 +12,16 @@ const HeroCard = ({ img, heading }) => {
           of Indian stocks crossed US $4.5 trillion in January
         </p>
       </div>
+      <div className="w-full h-[140px] ">
+        <img src={pic5} alt="" className="w-full h-full" />
+      </div>
+
+      <div className=" p-6 flex flex-col gap-[15px]">
+        <h3 className="font-[500] text-[14px]">{heading}</h3>
+        <p className="text-black/40 text-[12px]">
+          The last few years have seen a very substantial step up in capital
+        </p>
+      </div>
     </div>
   )
 }
