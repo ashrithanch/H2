@@ -40,11 +40,8 @@ const Aside = () => {
           </span>
           <span className="font-[500]">CPI Inflation</span>
           <span className="text-[12px] text-black/70">
-            The market capitalisation of Indian stocks 
-            crossed US $4.5 trillion in January
-          </span>
-          <span className="text-[12px] text-black/70">
-            The last few years have seen a very substantial step up in capital
+            India's Inflation eased to 5.1% in Jan, a 60 basis points decrese from the previous month. 
+            Consumer Food Price Index (CFPI) declined from 9.5% in Dec 23 to 8.3%
           </span>
         </div>
       </div>
