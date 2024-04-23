@@ -10,6 +10,9 @@ const HeroCard = ({ img, heading }) => {
           The market capitalisation 
           of Indian stocks crossed US $4.5 trillion in January
         </p>
+        <img src = "pic3.jpg">
+          <p>The last few years have seen a very substantial step up in capital</p>
+        </img>
       </div>
     </div>
   )
