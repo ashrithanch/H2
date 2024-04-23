@@ -12,6 +12,7 @@ const HeroCard = ({ img, heading }) => {
           of Indian stocks crossed US $4.5 trillion in January
         </p>
       </div>
+    </div>
   )
 }
 export default HeroCard
