@@ -40,8 +40,8 @@ const Aside = () => {
           </span>
           <span className="font-[500]">CPI Inflation</span>
           <span className="text-[12px] text-black/70">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eaque iste
-            nulla quas cum sapiente perspiciatis eos enim!
+            The market capitalisation of Indian stocks 
+            crossed US$4.5 trillion in January
           </span>
         </div>
       </div>
